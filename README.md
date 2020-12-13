@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsakar&&show_icons=true)](https://github.com/samedayan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samedayan&&show_icons=true)](https://github.com/samedayan)
 
 <!--
 **samedayan/samedayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
