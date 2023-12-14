@@ -10,7 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samedayan" alt="samedayan" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samedayan&show_icons=true&locale=en&layout=compact" alt="samedayan" /></p>
+<br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samedayan&show_icons=true&locale=en&layout=compact" alt="samedayan" /></p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
