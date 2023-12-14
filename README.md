@@ -12,6 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samedayan&show_icons=true&locale=en" alt="samedayan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samedayan&" alt="samedayan" /></p>
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
